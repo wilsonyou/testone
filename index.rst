@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-    SUMMARY
+    
     signing-transactions
     schematic-diagram
     protobuf-data-structure
