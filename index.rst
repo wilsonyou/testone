@@ -11,10 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-    SUMMARY
+    
     signing-transactions
     schematic-diagram
-    README
     protobuf-data-structure
     methods-of-submitting-transactions
     generating-public-keys
